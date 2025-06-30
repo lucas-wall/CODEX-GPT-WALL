@@ -1,2 +1,2 @@
-# CODEX-GPT-WALL!
+# CODEX-GPT-WALL
 Test
